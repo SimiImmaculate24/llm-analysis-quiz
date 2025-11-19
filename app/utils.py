@@ -1,7 +1,5 @@
 # app/utils.py
-import asyncio
 import json
-from typing import Any
 
 def now_ms():
     import time
